@@ -1,6 +1,6 @@
 version: '2.0'
 services:
-  config-server:
+  awesome-app:
     image: example/my-awesome-app
     ports:
       - 80:8080
